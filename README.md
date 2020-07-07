@@ -1,4 +1,9 @@
 # test
 test is ready for test
 
-{% raw %}{% seo %}{% endraw %}
+{% raw %}
+
+<meta name='we' content='space'>
+
+
+{% endraw %}
